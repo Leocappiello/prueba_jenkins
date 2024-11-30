@@ -1,3 +1,3 @@
 ## Readme de prueba
 
-<p>Este es un readme</p>
+<p>Este es un readme.</p>
